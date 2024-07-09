@@ -19,12 +19,10 @@ Hi 👋 My name is Denis Sadykov
 
 <a href="http://www.github.com/disadykov"><img src="https://github-readme-stats.vercel.app/api?username=disadykov&show_icons=true&theme=merko" alt="disadykov's GitHub stats" /></a>
 
-<a href="http://www.github.com/disadykov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=disadykov&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/disadykov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=disadykov&show_icons=true&theme=merko&hide_border=true" /></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disadykov&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=disadykov&show_icons=true&theme=merko)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
