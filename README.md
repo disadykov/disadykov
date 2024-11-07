@@ -3,7 +3,7 @@ Hi 👋 My name is Denis Sadykov
 
 *   🌍  I'm based in Yuzhno-Sakhalinsk
 *   ✉️  You can contact me at [sadykov-di@yandex.ru](mailto:sadykov-di@yandex.ru)
-*   🧠  I'm learning C/C++
+*   🧠  I'm learning C/C++, JS, React
 
 ### Skills
 
