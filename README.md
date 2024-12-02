@@ -21,15 +21,6 @@ Hi 👋 My name is Denis Sadykov
 </p>
 
 
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/disadykov"><img src="https://github-readme-stats.vercel.app/api?username=disadykov&show_icons=true&theme=merko" alt="disadykov's GitHub stats" /></a>
-
-<a href="http://www.github.com/disadykov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=disadykov&show_icons=true&theme=merko&hide_border=true" /></a>
-
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
